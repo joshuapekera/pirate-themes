@@ -1,0 +1,6 @@
+[submodule "pyrobootstrap"]
+	path = pyrobootstrap
+	url = https://github.com/smagentj/pyrocms-twitter-bootstrap-theme.git
+[submodule "twitterbootstrap"]
+	path = twitterbootstrap
+	url = https://github.com/smagentj/Bootstrap-PyroCMS-Theme.git
